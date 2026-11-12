@@ -1,0 +1,6 @@
+{
+  "name": "Shahjahanpur Karigar Hub",
+  "description": "उत्तर प्रदेश शाहजहांपुर के कुशल कारीगरों और कामगारों का डिजिटल मंच — बढ़ई, लोहार, नाई, प्लंबर, इलेक्ट्रीशियन खोजें या पंजीकरण करें।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
